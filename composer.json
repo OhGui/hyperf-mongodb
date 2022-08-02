@@ -20,6 +20,7 @@
             "Hyperf\\Mongodb\\": "src"
         }
     },
+    
     "extra": {
         "hyperf": {
             "config": "Hyperf\\Mongodb\\ConfigProvider"
